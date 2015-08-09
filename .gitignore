@@ -6,8 +6,9 @@
 **/*-Ex.R
 
 # RStudio files
-**/.Rproj.user/
-**/.RData
-**/PA1.Rproj
-**/.DS_Store
-
+.Rproj.user/
+.RData
+/shiny/PA1.Rproj
+/shiny/.DS_Store
+/presentation/.DS_Store
+.DS_Store
