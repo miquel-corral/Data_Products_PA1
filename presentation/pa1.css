@@ -1,0 +1,22 @@
+.section .reveal .state-background {
+    background: white;
+  }
+
+
+.section .reveal h1 {
+  color: black;  
+  font-size: 2em;
+}
+.section .reveal h2{
+  color: black;  
+}
+.section .reveal p {
+  color: gray;
+}
+
+.reveal h3{
+  color: black;  
+  font-weight: bold;
+}
+
+
